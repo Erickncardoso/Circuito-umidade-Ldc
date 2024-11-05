@@ -1,3 +1,7 @@
+![image](https://github.com/user-attachments/assets/9517fba5-9c30-4304-a1f1-598d4ab6ddd1)
+
+
+
 #include <LiquidCrystal_I2C.h>
 LiquidCrystal_I2C lcd(0x27,16,2);
 int status = 0;
